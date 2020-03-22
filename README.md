@@ -12,26 +12,28 @@ archiveprefix = {arXiv}
 }
 ```
 
-Requirements:
+# Requirements:
 
 
-o the [dictionary learning toolbox](https://github.com/pirofti/dl-box)
+* the [dictionary learning toolbox](https://github.com/pirofti/dl-box)
 
-o the [YALMIP](https://yalmip.github.io/) solver
+* the [YALMIP](https://yalmip.github.io/) solver
 
-o for generating the data you will need the
+* for generating the data you will need the
 [EPANET-Matlab-Toolkit](https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit).
 
-Main scripts:
+# Main scripts
 
-o get_residuals_random_profile.m, it generates and saves (as a mat file) the residual data for the given network
+* get_residuals_random_profile.m, it generates and saves (as a mat file) the residual data for the given network
 
-o run_fdi_toddler.m, runs the [TODDLeR](https://github.com/abaltoiu/malid) algorithm over the pre-computed residuals, for various numbers of placed sensors; for each sensor number it saves a different mat files containing the result (success rates, dictionaries, etc)
+* run_fdi_toddler.m, runs the [TODDLeR](https://github.com/abaltoiu/malid) algorithm over the pre-computed residuals, for various numbers of placed sensors; for each sensor number it saves a different mat files containing the result (success rates, dictionaries, etc)
 
-o plot_article_figures.m, with the exception of the networks, it generates all the plots appearing in the article (some differences appear due to changes in the mat files used; nothing major)
+* plot_article_figures.m, with the exception of the networks, it generates all the plots appearing in the article (some differences appear due to changes in the mat files used; nothing major)
 
 
-Necessary script runs in order to obtain the figures shown in the related article
+# Reproduceable research 
+
+Execute the following to obtain the figures shown in the article:
 
 
 1. run get_residuals_random_profile.m with the variables containing the 'hanoi' word uncommented; the result is the residues_hanoi.mat file, saved in the ./data subfolder
