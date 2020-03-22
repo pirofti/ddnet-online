@@ -1,0 +1,1580 @@
+[TITLE]
+
+
+[JUNCTIONS]
+;ID              	Elev        	Demand      	Pattern         
+;NFLOURS    Value
+;PRESS_DRIVEN    Ref.press   Tresh.press
+ 1               	1000.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 2               	992.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 3               	996.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 4               	999.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 5               	991.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 6               	1001.50     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 7               	1003.67     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 8               	993.50      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 9               	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 10              	990.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 11              	1000.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 12              	991.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 13              	996.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 14              	1002.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 15              	993.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 16              	992.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 17              	993.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 18              	1000.25     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 19              	999.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 20              	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 21              	993.50      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 22              	1000.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 23              	999.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 24              	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 25              	1002.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 26              	999.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 27              	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 28              	1007.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 29              	1002.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 30              	1003.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 31              	1002.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 32              	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 33              	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 34              	1007.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 35              	1000.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 36              	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 37              	1001.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 38              	1001.25     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 39              	987.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 40              	999.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 41              	1003.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 42              	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 43              	991.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 44              	1000.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 45              	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 46              	994.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 47              	1003.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 48              	994.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 49              	990.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 50              	994.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 51              	999.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 52              	1001.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 53              	1001.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 54              	998.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 55              	996.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 56              	993.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 57              	998.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 58              	1002.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 59              	1000.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 60              	1000.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 61              	1005.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 62              	995.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 63              	1002.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 64              	989.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 65              	1005.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 66              	986.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 67              	990.50      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 68              	988.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 69              	1001.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 70              	989.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 71              	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 72              	992.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 73              	1001.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 74              	987.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 75              	991.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 76              	984.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 77              	1003.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 78              	985.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 79              	993.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 80              	1003.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 81              	1001.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 82              	998.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 83              	992.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 84              	1003.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 85              	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 86              	1002.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 87              	998.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 88              	999.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 89              	996.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 90              	999.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 91              	1004.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 92              	999.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 93              	1001.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 94              	999.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 95              	993.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 96              	999.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 97              	1003.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 98              	1000.00     	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 99              	990.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+ 100             	997.00      	0           	                	;
+; NFLOURS     	1           
+; PRESS_DRIVEN	14.276	-1.0        
+
+[RESERVOIRS]
+;ID              	Head        	Pattern         
+ 102             	2037.00     	                	;
+
+[TANKS]
+;ID              	Elevation   	InitLevel   	MinLevel    	MaxLevel    	Diameter    	MinVol      	VolCurve
+
+[PIPES]
+;ID              	Node1           	Node2           	Length      	Diameter    	Roughness   	MinorLoss   	Status
+; SIZINGDATA	 Bulk coeff. 	Wall coeff. 	Diam. Zone   	Material    	Is Sizable  	D. Coeff.   	Demand Patt 	Loss Coeff. 	Loss Patt   
+ 1               	1               	58              	798.41      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 2               	2               	21              	993.35      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 3               	2               	75              	471.57      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 4               	2               	95              	1120.97     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 5               	3               	87              	886.18      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 6               	3               	40              	1170.00     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 7               	3               	46              	1268.95     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 8               	4               	19              	1387.40     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 9               	4               	7               	126.25      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 10              	4               	77              	1069.36     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 11              	5               	39              	464.30      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 12              	5               	15              	1038.43     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 13              	5               	79              	884.01      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 14              	6               	86              	1196.44     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 15              	6               	92              	350.49      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 16              	6               	30              	432.47      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 17              	7               	34              	387.33      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 18              	7               	96              	1281.42     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 19              	8               	67              	1806.82     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 20              	9               	31              	229.01      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 21              	10              	56              	849.62      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 22              	10              	46              	409.89      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 23              	10              	68              	1407.55     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 24              	11              	91              	913.47      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 25              	11              	62              	346.88      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 26              	11              	88              	1335.49     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 27              	12              	16              	473.81      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 28              	12              	72              	441.78      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 29              	12              	49              	153.47      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 30              	13              	83              	1050.11     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 31              	13              	33              	629.00      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 32              	13              	27              	1171.00     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 33              	14              	54              	750.91      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 34              	14              	57              	666.61      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 35              	14              	96              	567.44      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 36              	15              	62              	527.91      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 37              	15              	88              	595.15      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 38              	17              	45              	964.70      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 39              	17              	24              	198.49      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 40              	17              	32              	449.37      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 41              	18              	38              	1029.96     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 42              	19              	37              	687.10      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 43              	19              	94              	1334.54     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 44              	20              	53              	434.33      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 45              	21              	38              	897.23      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 46              	21              	61              	1672.21     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 47              	22              	31              	316.62      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 48              	22              	61              	650.72      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 49              	22              	84              	679.56      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 50              	23              	33              	180.62      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 51              	24              	27              	1077.31     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 52              	24              	32              	264.92      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 53              	25              	29              	68.82       	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 54              	25              	36              	661.21      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 55              	25              	82              	1449.16     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 56              	26              	86              	290.22      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 57              	26              	83              	2474.10     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 58              	26              	53              	2535.70     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 59              	27              	82              	1094.11     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 60              	28              	97              	870.58      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 61              	28              	81              	257.16      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 62              	28              	42              	671.04      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 63              	30              	92              	289.68      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 64              	30              	98              	737.46      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 65              	31              	84              	600.29      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 66              	32              	36              	679.85      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 67              	33              	85              	642.71      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 68              	34              	96              	904.72      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 69              	34              	77              	797.68      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 70              	35              	63              	235.05      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 71              	35              	44              	1062.00     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 72              	35              	37              	2284.60     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 73              	36              	56              	929.51      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 74              	37              	94              	654.13      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 75              	38              	65              	853.32      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 76              	39              	79              	422.24      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 77              	39              	48              	482.59      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 78              	40              	87              	622.51      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 79              	40              	100             	738.88      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 80              	41              	93              	149.83      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 81              	41              	73              	258.12      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 82              	41              	65              	302.50      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 83              	42              	55              	751.42      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 84              	42              	81              	727.21      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 85              	43              	89              	278.30      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 86              	44              	94              	762.76      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 87              	44              	69              	4679.00     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 88              	45              	71              	441.19      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 89              	46              	87              	1034.71     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 90              	47              	80              	590.77      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 91              	47              	57              	65.25       	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 92              	47              	59              	1469.35     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 93              	48              	95              	963.61      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 94              	48              	79              	137.19      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 95              	49              	68              	1522.03     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 96              	49              	64              	2303.86     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 97              	50              	83              	922.91      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 98              	51              	88              	78.29       	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 99              	51              	97              	285.80      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 100             	51              	55              	1652.07     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 101             	52              	84              	538.22      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 102             	53              	92              	935.54      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 103             	55              	82              	896.61      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 104             	56              	99              	1052.18     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 105             	57              	100             	1589.49     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 106             	58              	100             	111.36      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 107             	58              	91              	1631.76     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 108             	59              	77              	810.12      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 109             	59              	91              	1128.78     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 110             	60              	71              	349.61      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 111             	61              	69              	796.66      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 112             	62              	90              	546.66      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 113             	64              	76              	344.75      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 114             	64              	74              	838.21      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 115             	65              	73              	158.03      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 116             	66              	78              	173.24      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 117             	66              	67              	59.46       	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 118             	66              	99              	1108.88     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 119             	67              	74              	2052.31     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 120             	68              	70              	850.80      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 121             	69              	73              	612.72      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 122             	70              	74              	699.84      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 123             	70              	99              	1100.24     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 124             	72              	89              	263.30      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 125             	75              	95              	781.14      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 126             	81              	98              	448.89      	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 127             	86              	98              	2015.00     	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+ 128             	102             	28              	33          	12          	100         	0           	Open  	;
+; SIZINGDATA      	""          	""          	0           	            	Yes         	1.0         	""          	1.0         	""          	;Used in Network Sizing
+
+[PUMPS]
+;ID              	Node1           	Node2           	Parameters
+
+[VALVES]
+;ID              	Node1           	Node2           	Diameter    	Type	Setting     	MinorLoss   
+
+[TAGS]
+
+[DEMANDS]
+;Junction        	Demand      	Pattern         	Category
+ 1               	0           	                	; 
+ 1               	0.000439453886379504	                	;Pipe: 1
+ 1               	0           	                	;Loss: 1
+ 2               	0           	                	; 
+ 2               	0.000546751065286106	                	;Pipe: 2
+ 2               	0           	                	;Loss: 2
+ 2               	0.000259557456945658	                	;Pipe: 3
+ 2               	0           	                	;Loss: 3
+ 2               	0.000616994555447492	                	;Pipe: 4
+ 2               	0           	                	;Loss: 4
+ 3               	0           	                	; 
+ 3               	0.000487763486218595	                	;Pipe: 5
+ 3               	0           	                	;Loss: 5
+ 3               	0.000643981221507771	                	;Pipe: 6
+ 3               	0           	                	;Loss: 6
+ 3               	0.000698444419685714	                	;Pipe: 7
+ 3               	0           	                	;Loss: 7
+ 4               	0           	                	; 
+ 4               	0.000763640638222121	                	;Pipe: 8
+ 4               	0           	                	;Loss: 8
+ 4               	6.94894266797915E-5	                	;Pipe: 9
+ 4               	0           	                	;Loss: 9
+ 4               	0.000588587828232094	                	;Pipe: 10
+ 4               	0           	                	;Loss: 10
+ 5               	0           	                	; 
+ 5               	0.000255555966791503	                	;Pipe: 11
+ 5               	0           	                	;Loss: 11
+ 5               	0.00057156360670967	                	;Pipe: 12
+ 5               	0           	                	;Loss: 12
+ 5               	0.000486569093696653	                	;Pipe: 13
+ 5               	0           	                	;Loss: 13
+ 6               	0           	                	; 
+ 6               	0.000658534096291245	                	;Pipe: 14
+ 6               	0           	                	;Loss: 14
+ 6               	0.00019291365668911	                	;Pipe: 15
+ 6               	0           	                	;Loss: 15
+ 6               	0.000238036375098689	                	;Pipe: 16
+ 6               	0           	                	;Loss: 16
+ 7               	0           	                	; 
+ 7               	6.94894266797915E-5	                	;Pipe: 9
+ 7               	0           	                	;Loss: 9
+ 7               	0.000213190808997098	                	;Pipe: 17
+ 7               	0           	                	;Loss: 17
+ 7               	0.000705308048602126	                	;Pipe: 18
+ 7               	0           	                	;Loss: 18
+ 8               	0           	                	; 
+ 8               	0.000994494145850146	                	;Pipe: 19
+ 8               	0           	                	;Loss: 19
+ 9               	0           	                	; 
+ 9               	0.000126049691912389	                	;Pipe: 20
+ 9               	0           	                	;Loss: 20
+ 10              	0           	                	; 
+ 10              	0.000467640449074728	                	;Pipe: 21
+ 10              	0           	                	;Loss: 21
+ 10              	0.000225608087934889	                	;Pipe: 22
+ 10              	0           	                	;Loss: 22
+ 10              	0.000774731425925866	                	;Pipe: 23
+ 10              	0           	                	;Loss: 23
+ 11              	0           	                	; 
+ 11              	0.000502784210607439	                	;Pipe: 24
+ 11              	0           	                	;Loss: 24
+ 11              	0.000190926671894543	                	;Pipe: 25
+ 11              	0           	                	;Loss: 25
+ 11              	0.000735068787616592	                	;Pipe: 26
+ 11              	0           	                	;Loss: 26
+ 12              	0           	                	; 
+ 12              	0.00026079037825863	                	;Pipe: 27
+ 12              	0           	                	;Loss: 27
+ 12              	0.000243160704305729	                	;Pipe: 28
+ 12              	0           	                	;Loss: 28
+ 12              	8.44716222776048E-5	                	;Pipe: 29
+ 12              	0           	                	;Loss: 29
+ 13              	0           	                	; 
+ 13              	0.000577992410698739	                	;Pipe: 30
+ 13              	0           	                	;Loss: 30
+ 13              	0.000346208707972981	                	;Pipe: 31
+ 13              	0           	                	;Loss: 31
+ 13              	0.000644531632808205	                	;Pipe: 32
+ 13              	0           	                	;Loss: 32
+ 14              	0           	                	; 
+ 14              	0.000413309349608889	                	;Pipe: 33
+ 14              	0           	                	;Loss: 33
+ 14              	0.000366909676982303	                	;Pipe: 34
+ 14              	0           	                	;Loss: 34
+ 14              	0.000312325388318265	                	;Pipe: 35
+ 14              	0           	                	;Loss: 35
+ 15              	0           	                	; 
+ 15              	0.00057156360670967	                	;Pipe: 12
+ 15              	0           	                	;Loss: 12
+ 15              	0.000290567629612109	                	;Pipe: 36
+ 15              	0           	                	;Loss: 36
+ 15              	0.00032757728545329	                	;Pipe: 37
+ 15              	0           	                	;Loss: 37
+ 16              	0           	                	; 
+ 16              	0.00026079037825863	                	;Pipe: 27
+ 16              	0           	                	;Loss: 27
+ 17              	0           	                	; 
+ 17              	0.000530981781528672	                	;Pipe: 38
+ 17              	0           	                	;Loss: 38
+ 17              	0.000109251139023143	                	;Pipe: 39
+ 17              	0           	                	;Loss: 39
+ 17              	0.000247338326076023	                	;Pipe: 40
+ 17              	0           	                	;Loss: 40
+ 18              	0           	                	; 
+ 18              	0.000566901622994995	                	;Pipe: 41
+ 18              	0           	                	;Loss: 41
+ 19              	0           	                	; 
+ 19              	0.000763640638222121	                	;Pipe: 8
+ 19              	0           	                	;Loss: 8
+ 19              	0.000378187604528196	                	;Pipe: 42
+ 19              	0           	                	;Loss: 42
+ 19              	0.00073454589688118	                	;Pipe: 43
+ 19              	0           	                	;Loss: 43
+ 20              	0           	                	; 
+ 20              	0.000239060140117496	                	;Pipe: 44
+ 20              	0           	                	;Loss: 44
+ 21              	0           	                	; 
+ 21              	0.000546751065286106	                	;Pipe: 2
+ 21              	0           	                	;Loss: 2
+ 21              	0.000493845531088391	                	;Pipe: 45
+ 21              	0           	                	;Loss: 45
+ 21              	0.000920403280698726	                	;Pipe: 46
+ 21              	0           	                	;Loss: 46
+ 22              	0           	                	; 
+ 22              	0.000174271225943411	                	;Pipe: 47
+ 22              	0           	                	;Loss: 47
+ 22              	0.000358163641418407	                	;Pipe: 48
+ 22              	0           	                	;Loss: 48
+ 22              	0.000374037503322924	                	;Pipe: 49
+ 22              	0           	                	;Loss: 49
+ 23              	0           	                	; 
+ 23              	9.94152890843877E-5	                	;Pipe: 50
+ 23              	0           	                	;Loss: 50
+ 24              	0           	                	; 
+ 24              	0.000109251139023143	                	;Pipe: 39
+ 24              	0           	                	;Loss: 39
+ 24              	0.000592963598070544	                	;Pipe: 51
+ 24              	0           	                	;Loss: 51
+ 24              	0.000145814961710973	                	;Pipe: 52
+ 24              	0           	                	;Loss: 52
+ 25              	0           	                	; 
+ 25              	3.78793056958673E-5	                	;Pipe: 53
+ 25              	0           	                	;Loss: 53
+ 25              	0.00036393745595996	                	;Pipe: 54
+ 25              	0           	                	;Loss: 54
+ 25              	0.000797634040136924	                	;Pipe: 55
+ 25              	0           	                	;Loss: 55
+ 26              	0           	                	; 
+ 26              	0.000159740367611953	                	;Pipe: 56
+ 26              	0           	                	;Loss: 56
+ 26              	0.00136177259840374	                	;Pipe: 57
+ 26              	0           	                	;Loss: 57
+ 26              	0.00139567793451047	                	;Pipe: 58
+ 26              	0           	                	;Loss: 58
+ 27              	0           	                	; 
+ 27              	0.000644531632808205	                	;Pipe: 32
+ 27              	0           	                	;Loss: 32
+ 27              	0.000592963598070544	                	;Pipe: 51
+ 27              	0           	                	;Loss: 51
+ 27              	0.000602210507917835	                	;Pipe: 59
+ 27              	0           	                	;Loss: 59
+ 28              	0           	                	; 
+ 28              	0.000479177069931825	                	;Pipe: 60
+ 28              	0           	                	;Loss: 60
+ 28              	0.000141543770019605	                	;Pipe: 61
+ 28              	0           	                	;Loss: 61
+ 28              	0.000369347999043226	                	;Pipe: 62
+ 28              	0           	                	;Loss: 62
+ 28              	3.63271458286435E-5	                	;Pipe: 128
+ 28              	0           	                	;Loss: 128
+ 29              	0           	                	; 
+ 29              	3.78793056958673E-5	                	;Pipe: 53
+ 29              	0           	                	;Loss: 53
+ 30              	0           	                	; 
+ 30              	0.000238036375098689	                	;Pipe: 16
+ 30              	0           	                	;Loss: 16
+ 30              	0.000159443145509719	                	;Pipe: 63
+ 30              	0           	                	;Loss: 63
+ 30              	0.000405906317618052	                	;Pipe: 64
+ 30              	0           	                	;Loss: 64
+ 31              	0           	                	; 
+ 31              	0.000126049691912389	                	;Pipe: 20
+ 31              	0           	                	;Loss: 20
+ 31              	0.000174271225943411	                	;Pipe: 47
+ 31              	0           	                	;Loss: 47
+ 31              	0.000330406399537521	                	;Pipe: 65
+ 31              	0           	                	;Loss: 65
+ 32              	0           	                	; 
+ 32              	0.000247338326076023	                	;Pipe: 40
+ 32              	0           	                	;Loss: 40
+ 32              	0.000145814961710973	                	;Pipe: 52
+ 32              	0           	                	;Loss: 52
+ 32              	0.00037419712260005	                	;Pipe: 66
+ 32              	0           	                	;Loss: 66
+ 33              	0           	                	; 
+ 33              	0.000346208707972981	                	;Pipe: 31
+ 33              	0           	                	;Loss: 31
+ 33              	9.94152890843877E-5	                	;Pipe: 50
+ 33              	0           	                	;Loss: 50
+ 33              	0.000353754846901931	                	;Pipe: 67
+ 33              	0           	                	;Loss: 67
+ 34              	0           	                	; 
+ 34              	0.000213190808997098	                	;Pipe: 17
+ 34              	0           	                	;Loss: 17
+ 34              	0.000497968111728641	                	;Pipe: 68
+ 34              	0           	                	;Loss: 68
+ 34              	0.000439052086130187	                	;Pipe: 69
+ 34              	0           	                	;Loss: 69
+ 35              	0           	                	; 
+ 35              	0.00012937417616701	                	;Pipe: 70
+ 35              	0           	                	;Loss: 70
+ 35              	0.0005845368010609	                	;Pipe: 71
+ 35              	0           	                	;Loss: 71
+ 35              	0.0012574696569715	                	;Pipe: 72
+ 35              	0           	                	;Loss: 72
+ 36              	0           	                	; 
+ 36              	0.00036393745595996	                	;Pipe: 54
+ 36              	0           	                	;Loss: 54
+ 36              	0.00037419712260005	                	;Pipe: 66
+ 36              	0           	                	;Loss: 66
+ 36              	0.0005116128078664	                	;Pipe: 73
+ 36              	0           	                	;Loss: 73
+ 37              	0           	                	; 
+ 37              	0.000378187604528196	                	;Pipe: 42
+ 37              	0           	                	;Loss: 42
+ 37              	0.0012574696569715	                	;Pipe: 72
+ 37              	0           	                	;Loss: 72
+ 37              	0.000360040543952887	                	;Pipe: 74
+ 37              	0           	                	;Loss: 74
+ 38              	0           	                	; 
+ 38              	0.000566901622994995	                	;Pipe: 41
+ 38              	0           	                	;Loss: 41
+ 38              	0.000493845531088391	                	;Pipe: 45
+ 38              	0           	                	;Loss: 45
+ 38              	0.000469676970886334	                	;Pipe: 75
+ 38              	0           	                	;Loss: 75
+ 39              	0           	                	; 
+ 39              	0.000255555966791503	                	;Pipe: 11
+ 39              	0           	                	;Loss: 11
+ 39              	0.000232405667495249	                	;Pipe: 76
+ 39              	0           	                	;Loss: 76
+ 39              	0.00026562298947644	                	;Pipe: 77
+ 39              	0           	                	;Loss: 77
+ 40              	0           	                	; 
+ 40              	0.000643981221507771	                	;Pipe: 6
+ 40              	0           	                	;Loss: 6
+ 40              	0.000342636538633164	                	;Pipe: 78
+ 40              	0           	                	;Loss: 78
+ 40              	0.000406687901664668	                	;Pipe: 79
+ 40              	0           	                	;Loss: 79
+ 41              	0           	                	; 
+ 41              	8.2468125144025E-5	                	;Pipe: 80
+ 41              	0           	                	;Loss: 80
+ 41              	0.000142072164868022	                	;Pipe: 81
+ 41              	0           	                	;Loss: 81
+ 41              	0.000166499418381283	                	;Pipe: 82
+ 41              	0           	                	;Loss: 82
+ 42              	0           	                	; 
+ 42              	0.000369347999043226	                	;Pipe: 62
+ 42              	0           	                	;Loss: 62
+ 42              	0.00041359005937211	                	;Pipe: 83
+ 42              	0           	                	;Loss: 83
+ 42              	0.000400264601788603	                	;Pipe: 84
+ 42              	0           	                	;Loss: 84
+ 43              	0           	                	; 
+ 43              	0.00015317946491078	                	;Pipe: 85
+ 43              	0           	                	;Loss: 85
+ 44              	0           	                	; 
+ 44              	0.0005845368010609	                	;Pipe: 71
+ 44              	0           	                	;Loss: 71
+ 44              	0.000419831723519032	                	;Pipe: 86
+ 44              	0           	                	;Loss: 86
+ 44              	0.00257537447473065	                	;Pipe: 87
+ 44              	0           	                	;Loss: 87
+ 45              	0           	                	; 
+ 45              	0.000530981781528672	                	;Pipe: 38
+ 45              	0           	                	;Loss: 38
+ 45              	0.000242835961638473	                	;Pipe: 88
+ 45              	0           	                	;Loss: 88
+ 46              	0           	                	; 
+ 46              	0.000698444419685714	                	;Pipe: 7
+ 46              	0           	                	;Loss: 7
+ 46              	0.000225608087934889	                	;Pipe: 22
+ 46              	0           	                	;Loss: 22
+ 46              	0.000569516076672056	                	;Pipe: 89
+ 46              	0           	                	;Loss: 89
+ 47              	0           	                	; 
+ 47              	0.00032516648395739	                	;Pipe: 90
+ 47              	0           	                	;Loss: 90
+ 47              	3.5914337353318E-5	                	;Pipe: 91
+ 47              	0           	                	;Loss: 91
+ 47              	0.000808746844292686	                	;Pipe: 92
+ 47              	0           	                	;Loss: 92
+ 48              	0           	                	; 
+ 48              	0.00026562298947644	                	;Pipe: 77
+ 48              	0           	                	;Loss: 77
+ 48              	0.000530381833211199	                	;Pipe: 93
+ 48              	0           	                	;Loss: 93
+ 48              	7.55109263065394E-5	                	;Pipe: 94
+ 48              	0           	                	;Loss: 94
+ 49              	0           	                	; 
+ 49              	8.44716222776048E-5	                	;Pipe: 29
+ 49              	0           	                	;Loss: 29
+ 49              	0.000837742511599549	                	;Pipe: 95
+ 49              	0           	                	;Loss: 95
+ 49              	0.00126807057861786	                	;Pipe: 96
+ 49              	0           	                	;Loss: 96
+ 50              	0           	                	; 
+ 50              	0.000507980093283536	                	;Pipe: 97
+ 50              	0           	                	;Loss: 97
+ 51              	0           	                	; 
+ 51              	4.30917007109772E-5	                	;Pipe: 98
+ 51              	0           	                	;Loss: 98
+ 51              	0.000157307549664035	                	;Pipe: 99
+ 51              	0           	                	;Loss: 99
+ 51              	0.000909317997107985	                	;Pipe: 100
+ 51              	0           	                	;Loss: 100
+ 52              	0           	                	; 
+ 52              	0.000296242370119583	                	;Pipe: 101
+ 52              	0           	                	;Loss: 101
+ 53              	0           	                	; 
+ 53              	0.000239060140117496	                	;Pipe: 44
+ 53              	0           	                	;Loss: 44
+ 53              	0.00139567793451047	                	;Pipe: 58
+ 53              	0           	                	;Loss: 58
+ 53              	0.000514931788008017	                	;Pipe: 102
+ 53              	0           	                	;Loss: 102
+ 54              	0           	                	; 
+ 54              	0.000413309349608889	                	;Pipe: 33
+ 54              	0           	                	;Loss: 33
+ 55              	0           	                	; 
+ 55              	0.00041359005937211	                	;Pipe: 83
+ 55              	0           	                	;Loss: 83
+ 55              	0.000909317997107985	                	;Pipe: 100
+ 55              	0           	                	;Loss: 100
+ 55              	0.000493504276082122	                	;Pipe: 103
+ 55              	0           	                	;Loss: 103
+ 56              	0           	                	; 
+ 56              	0.000467640449074728	                	;Pipe: 21
+ 56              	0           	                	;Loss: 21
+ 56              	0.0005116128078664	                	;Pipe: 73
+ 56              	0           	                	;Loss: 73
+ 56              	0.000579131762090638	                	;Pipe: 104
+ 56              	0           	                	;Loss: 104
+ 57              	0           	                	; 
+ 57              	0.000366909676982303	                	;Pipe: 34
+ 57              	0           	                	;Loss: 34
+ 57              	3.5914337353318E-5	                	;Pipe: 91
+ 57              	0           	                	;Loss: 91
+ 57              	0.000874873257926826	                	;Pipe: 105
+ 57              	0           	                	;Loss: 105
+ 58              	0           	                	; 
+ 58              	0.000439453886379504	                	;Pipe: 1
+ 58              	0           	                	;Loss: 1
+ 58              	6.12938024163294E-5	                	;Pipe: 106
+ 58              	0           	                	;Loss: 106
+ 58              	0.000898139143596171	                	;Pipe: 107
+ 58              	0           	                	;Loss: 107
+ 59              	0           	                	; 
+ 59              	0.000808746844292686	                	;Pipe: 92
+ 59              	0           	                	;Loss: 92
+ 59              	0.000445899202707586	                	;Pipe: 108
+ 59              	0           	                	;Loss: 108
+ 59              	0.000621293267703882	                	;Pipe: 109
+ 59              	0           	                	;Loss: 109
+ 60              	0           	                	; 
+ 60              	0.000192429294744728	                	;Pipe: 110
+ 60              	0           	                	;Loss: 110
+ 61              	0           	                	; 
+ 61              	0.000920403280698726	                	;Pipe: 46
+ 61              	0           	                	;Loss: 46
+ 61              	0.000358163641418407	                	;Pipe: 48
+ 61              	0           	                	;Loss: 48
+ 61              	0.000438490666603744	                	;Pipe: 111
+ 61              	0           	                	;Loss: 111
+ 62              	0           	                	; 
+ 62              	0.000190926671894543	                	;Pipe: 25
+ 62              	0           	                	;Loss: 25
+ 62              	0.000290567629612109	                	;Pipe: 36
+ 62              	0           	                	;Loss: 36
+ 62              	0.000300887841495246	                	;Pipe: 112
+ 62              	0           	                	;Loss: 112
+ 63              	0           	                	; 
+ 63              	0.00012937417616701	                	;Pipe: 70
+ 63              	0           	                	;Loss: 70
+ 64              	0           	                	; 
+ 64              	0.00126807057861786	                	;Pipe: 96
+ 64              	0           	                	;Loss: 96
+ 64              	0.000189754295824619	                	;Pipe: 113
+ 64              	0           	                	;Loss: 113
+ 64              	0.000461360256136777	                	;Pipe: 114
+ 64              	0           	                	;Loss: 114
+ 65              	0           	                	; 
+ 65              	0.000469676970886334	                	;Pipe: 75
+ 65              	0           	                	;Loss: 75
+ 65              	0.000166499418381283	                	;Pipe: 82
+ 65              	0           	                	;Loss: 82
+ 65              	8.69814978075838E-5	                	;Pipe: 115
+ 65              	0           	                	;Loss: 115
+ 66              	0           	                	; 
+ 66              	9.53532536871848E-5	                	;Pipe: 116
+ 66              	0           	                	;Loss: 116
+ 66              	3.27274559238052E-5	                	;Pipe: 117
+ 66              	0           	                	;Loss: 117
+ 66              	0.000610340082825245	                	;Pipe: 118
+ 66              	0           	                	;Loss: 118
+ 67              	0           	                	; 
+ 67              	0.000994494145850146	                	;Pipe: 19
+ 67              	0           	                	;Loss: 19
+ 67              	3.27274559238052E-5	                	;Pipe: 117
+ 67              	0           	                	;Loss: 117
+ 67              	0.00112961461599369	                	;Pipe: 119
+ 67              	0           	                	;Loss: 119
+ 68              	0           	                	; 
+ 68              	0.000774731425925866	                	;Pipe: 23
+ 68              	0           	                	;Loss: 23
+ 68              	0.000837742511599549	                	;Pipe: 95
+ 68              	0           	                	;Loss: 95
+ 68              	0.000468289934409241	                	;Pipe: 120
+ 68              	0           	                	;Loss: 120
+ 69              	0           	                	; 
+ 69              	0.00257537447473065	                	;Pipe: 87
+ 69              	0           	                	;Loss: 87
+ 69              	0.000438490666603744	                	;Pipe: 111
+ 69              	0           	                	;Loss: 111
+ 69              	0.000337248012001916	                	;Pipe: 121
+ 69              	0           	                	;Loss: 121
+ 70              	0           	                	; 
+ 70              	0.000468289934409241	                	;Pipe: 120
+ 70              	0           	                	;Loss: 120
+ 70              	0.000385199844495725	                	;Pipe: 122
+ 70              	0           	                	;Loss: 122
+ 70              	0.000605584529189495	                	;Pipe: 123
+ 70              	0           	                	;Loss: 123
+ 71              	0           	                	; 
+ 71              	0.000242835961638473	                	;Pipe: 88
+ 71              	0           	                	;Loss: 88
+ 71              	0.000192429294744728	                	;Pipe: 110
+ 71              	0           	                	;Loss: 110
+ 72              	0           	                	; 
+ 72              	0.000243160704305729	                	;Pipe: 28
+ 72              	0           	                	;Loss: 28
+ 72              	0.00014492329540427	                	;Pipe: 124
+ 72              	0           	                	;Loss: 124
+ 73              	0           	                	; 
+ 73              	0.000142072164868022	                	;Pipe: 81
+ 73              	0           	                	;Loss: 81
+ 73              	8.69814978075838E-5	                	;Pipe: 115
+ 73              	0           	                	;Loss: 115
+ 73              	0.000337248012001916	                	;Pipe: 121
+ 73              	0           	                	;Loss: 121
+ 74              	0           	                	; 
+ 74              	0.000461360256136777	                	;Pipe: 114
+ 74              	0           	                	;Loss: 114
+ 74              	0.00112961461599369	                	;Pipe: 119
+ 74              	0           	                	;Loss: 119
+ 74              	0.000385199844495725	                	;Pipe: 122
+ 74              	0           	                	;Loss: 122
+ 75              	0           	                	; 
+ 75              	0.000259557456945658	                	;Pipe: 3
+ 75              	0           	                	;Loss: 3
+ 75              	0.000429948283221009	                	;Pipe: 125
+ 75              	0           	                	;Loss: 125
+ 76              	0           	                	; 
+ 76              	0.000189754295824619	                	;Pipe: 113
+ 76              	0           	                	;Loss: 113
+ 77              	0           	                	; 
+ 77              	0.000588587828232094	                	;Pipe: 10
+ 77              	0           	                	;Loss: 10
+ 77              	0.000439052086130187	                	;Pipe: 69
+ 77              	0           	                	;Loss: 69
+ 77              	0.000445899202707586	                	;Pipe: 108
+ 77              	0           	                	;Loss: 108
+ 78              	0           	                	; 
+ 78              	9.53532536871848E-5	                	;Pipe: 116
+ 78              	0           	                	;Loss: 116
+ 79              	0           	                	; 
+ 79              	0.000486569093696653	                	;Pipe: 13
+ 79              	0           	                	;Loss: 13
+ 79              	0.000232405667495249	                	;Pipe: 76
+ 79              	0           	                	;Loss: 76
+ 79              	7.55109263065394E-5	                	;Pipe: 94
+ 79              	0           	                	;Loss: 94
+ 80              	0           	                	; 
+ 80              	0.00032516648395739	                	;Pipe: 90
+ 80              	0           	                	;Loss: 90
+ 81              	0           	                	; 
+ 81              	0.000141543770019605	                	;Pipe: 61
+ 81              	0           	                	;Loss: 61
+ 81              	0.000400264601788603	                	;Pipe: 84
+ 81              	0           	                	;Loss: 84
+ 81              	0.000247074128651815	                	;Pipe: 126
+ 81              	0           	                	;Loss: 126
+ 82              	0           	                	; 
+ 82              	0.000797634040136924	                	;Pipe: 55
+ 82              	0           	                	;Loss: 55
+ 82              	0.000602210507917835	                	;Pipe: 59
+ 82              	0           	                	;Loss: 59
+ 82              	0.000493504276082122	                	;Pipe: 103
+ 82              	0           	                	;Loss: 103
+ 83              	0           	                	; 
+ 83              	0.000577992410698739	                	;Pipe: 30
+ 83              	0           	                	;Loss: 30
+ 83              	0.00136177259840374	                	;Pipe: 57
+ 83              	0           	                	;Loss: 57
+ 83              	0.000507980093283536	                	;Pipe: 97
+ 83              	0           	                	;Loss: 97
+ 84              	0           	                	; 
+ 84              	0.000374037503322924	                	;Pipe: 49
+ 84              	0           	                	;Loss: 49
+ 84              	0.000330406399537521	                	;Pipe: 65
+ 84              	0           	                	;Loss: 65
+ 84              	0.000296242370119583	                	;Pipe: 101
+ 84              	0           	                	;Loss: 101
+ 85              	0           	                	; 
+ 85              	0.000353754846901931	                	;Pipe: 67
+ 85              	0           	                	;Loss: 67
+ 86              	0           	                	; 
+ 86              	0.000658534096291245	                	;Pipe: 14
+ 86              	0           	                	;Loss: 14
+ 86              	0.000159740367611953	                	;Pipe: 56
+ 86              	0           	                	;Loss: 56
+ 86              	0.00110907877037449	                	;Pipe: 127
+ 86              	0           	                	;Loss: 127
+ 87              	0           	                	; 
+ 87              	0.000487763486218595	                	;Pipe: 5
+ 87              	0           	                	;Loss: 5
+ 87              	0.000342636538633164	                	;Pipe: 78
+ 87              	0           	                	;Loss: 78
+ 87              	0.000569516076672056	                	;Pipe: 89
+ 87              	0           	                	;Loss: 89
+ 88              	0           	                	; 
+ 88              	0.000735068787616592	                	;Pipe: 26
+ 88              	0           	                	;Loss: 26
+ 88              	0.00032757728545329	                	;Pipe: 37
+ 88              	0           	                	;Loss: 37
+ 88              	4.30917007109772E-5	                	;Pipe: 98
+ 88              	0           	                	;Loss: 98
+ 89              	0           	                	; 
+ 89              	0.00015317946491078	                	;Pipe: 85
+ 89              	0           	                	;Loss: 85
+ 89              	0.00014492329540427	                	;Pipe: 124
+ 89              	0           	                	;Loss: 124
+ 90              	0           	                	; 
+ 90              	0.000300887841495246	                	;Pipe: 112
+ 90              	0           	                	;Loss: 112
+ 91              	0           	                	; 
+ 91              	0.000502784210607439	                	;Pipe: 24
+ 91              	0           	                	;Loss: 24
+ 91              	0.000898139143596171	                	;Pipe: 107
+ 91              	0           	                	;Loss: 107
+ 91              	0.000621293267703882	                	;Pipe: 109
+ 91              	0           	                	;Loss: 109
+ 92              	0           	                	; 
+ 92              	0.00019291365668911	                	;Pipe: 15
+ 92              	0           	                	;Loss: 15
+ 92              	0.000159443145509719	                	;Pipe: 63
+ 92              	0           	                	;Loss: 63
+ 92              	0.000514931788008017	                	;Pipe: 102
+ 92              	0           	                	;Loss: 102
+ 93              	0           	                	; 
+ 93              	8.2468125144025E-5	                	;Pipe: 80
+ 93              	0           	                	;Loss: 80
+ 94              	0           	                	; 
+ 94              	0.00073454589688118	                	;Pipe: 43
+ 94              	0           	                	;Loss: 43
+ 94              	0.000360040543952887	                	;Pipe: 74
+ 94              	0           	                	;Loss: 74
+ 94              	0.000419831723519032	                	;Pipe: 86
+ 94              	0           	                	;Loss: 86
+ 95              	0           	                	; 
+ 95              	0.000616994555447492	                	;Pipe: 4
+ 95              	0           	                	;Loss: 4
+ 95              	0.000530381833211199	                	;Pipe: 93
+ 95              	0           	                	;Loss: 93
+ 95              	0.000429948283221009	                	;Pipe: 125
+ 95              	0           	                	;Loss: 125
+ 96              	0           	                	; 
+ 96              	0.000705308048602126	                	;Pipe: 18
+ 96              	0           	                	;Loss: 18
+ 96              	0.000312325388318265	                	;Pipe: 35
+ 96              	0           	                	;Loss: 35
+ 96              	0.000497968111728641	                	;Pipe: 68
+ 96              	0           	                	;Loss: 68
+ 97              	0           	                	; 
+ 97              	0.000479177069931825	                	;Pipe: 60
+ 97              	0           	                	;Loss: 60
+ 97              	0.000157307549664035	                	;Pipe: 99
+ 97              	0           	                	;Loss: 99
+ 98              	0           	                	; 
+ 98              	0.000405906317618052	                	;Pipe: 64
+ 98              	0           	                	;Loss: 64
+ 98              	0.000247074128651815	                	;Pipe: 126
+ 98              	0           	                	;Loss: 126
+ 98              	0.00110907877037449	                	;Pipe: 127
+ 98              	0           	                	;Loss: 127
+ 99              	0           	                	; 
+ 99              	0.000579131762090638	                	;Pipe: 104
+ 99              	0           	                	;Loss: 104
+ 99              	0.000610340082825245	                	;Pipe: 118
+ 99              	0           	                	;Loss: 118
+ 99              	0.000605584529189495	                	;Pipe: 123
+ 99              	0           	                	;Loss: 123
+ 100             	0           	                	; 
+ 100             	0.000406687901664668	                	;Pipe: 79
+ 100             	0           	                	;Loss: 79
+ 100             	0.000874873257926826	                	;Pipe: 105
+ 100             	0           	                	;Loss: 105
+ 100             	6.12938024163294E-5	                	;Pipe: 106
+ 100             	0           	                	;Loss: 106
+
+;      ---------------------- JUNCS LEAKAGES ----------------------
+;      ---------------------- PIPES LEAKAGES ----------------------
+ 1               	0	            	; LeakP: 1               	0.0         	0.0         	0.0         	0.0         
+ 2               	0	            	; LeakP: 2               	0.0         	0.0         	0.0         	0.0         
+ 2               	0	            	; LeakP: 3               	0.0         	0.0         	0.0         	0.0         
+ 2               	0	            	; LeakP: 4               	0.0         	0.0         	0.0         	0.0         
+ 3               	0	            	; LeakP: 5               	0.0         	0.0         	0.0         	0.0         
+ 3               	0	            	; LeakP: 6               	0.0         	0.0         	0.0         	0.0         
+ 3               	0	            	; LeakP: 7               	0.0         	0.0         	0.0         	0.0         
+ 4               	0	            	; LeakP: 8               	0.0         	0.0         	0.0         	0.0         
+ 4               	0	            	; LeakP: 9               	0.0         	0.0         	0.0         	0.0         
+ 4               	0	            	; LeakP: 10              	0.0         	0.0         	0.0         	0.0         
+ 5               	0	            	; LeakP: 11              	0.0         	0.0         	0.0         	0.0         
+ 5               	0	            	; LeakP: 12              	0.0         	0.0         	0.0         	0.0         
+ 5               	0	            	; LeakP: 13              	0.0         	0.0         	0.0         	0.0         
+ 6               	0	            	; LeakP: 14              	0.0         	0.0         	0.0         	0.0         
+ 6               	0	            	; LeakP: 15              	0.0         	0.0         	0.0         	0.0         
+ 6               	0	            	; LeakP: 16              	0.0         	0.0         	0.0         	0.0         
+ 7               	0	            	; LeakP: 17              	0.0         	0.0         	0.0         	0.0         
+ 7               	0	            	; LeakP: 18              	0.0         	0.0         	0.0         	0.0         
+ 8               	0	            	; LeakP: 19              	0.0         	0.0         	0.0         	0.0         
+ 9               	0	            	; LeakP: 20              	0.0         	0.0         	0.0         	0.0         
+ 10              	0	            	; LeakP: 21              	0.0         	0.0         	0.0         	0.0         
+ 10              	0	            	; LeakP: 22              	0.0         	0.0         	0.0         	0.0         
+ 10              	0	            	; LeakP: 23              	0.0         	0.0         	0.0         	0.0         
+ 11              	0	            	; LeakP: 24              	0.0         	0.0         	0.0         	0.0         
+ 11              	0	            	; LeakP: 25              	0.0         	0.0         	0.0         	0.0         
+ 11              	0	            	; LeakP: 26              	0.0         	0.0         	0.0         	0.0         
+ 12              	0	            	; LeakP: 27              	0.0         	0.0         	0.0         	0.0         
+ 12              	0	            	; LeakP: 28              	0.0         	0.0         	0.0         	0.0         
+ 12              	0	            	; LeakP: 29              	0.0         	0.0         	0.0         	0.0         
+ 13              	0	            	; LeakP: 30              	0.0         	0.0         	0.0         	0.0         
+ 13              	0	            	; LeakP: 31              	0.0         	0.0         	0.0         	0.0         
+ 13              	0	            	; LeakP: 32              	0.0         	0.0         	0.0         	0.0         
+ 14              	0	            	; LeakP: 33              	0.0         	0.0         	0.0         	0.0         
+ 14              	0	            	; LeakP: 34              	0.0         	0.0         	0.0         	0.0         
+ 14              	0	            	; LeakP: 35              	0.0         	0.0         	0.0         	0.0         
+ 15              	0	            	; LeakP: 36              	0.0         	0.0         	0.0         	0.0         
+ 15              	0	            	; LeakP: 37              	0.0         	0.0         	0.0         	0.0         
+ 17              	0	            	; LeakP: 38              	0.0         	0.0         	0.0         	0.0         
+ 17              	0	            	; LeakP: 39              	0.0         	0.0         	0.0         	0.0         
+ 17              	0	            	; LeakP: 40              	0.0         	0.0         	0.0         	0.0         
+ 18              	0	            	; LeakP: 41              	0.0         	0.0         	0.0         	0.0         
+ 19              	0	            	; LeakP: 42              	0.0         	0.0         	0.0         	0.0         
+ 19              	0	            	; LeakP: 43              	0.0         	0.0         	0.0         	0.0         
+ 20              	0	            	; LeakP: 44              	0.0         	0.0         	0.0         	0.0         
+ 21              	0	            	; LeakP: 45              	0.0         	0.0         	0.0         	0.0         
+ 21              	0	            	; LeakP: 46              	0.0         	0.0         	0.0         	0.0         
+ 22              	0	            	; LeakP: 47              	0.0         	0.0         	0.0         	0.0         
+ 22              	0	            	; LeakP: 48              	0.0         	0.0         	0.0         	0.0         
+ 22              	0	            	; LeakP: 49              	0.0         	0.0         	0.0         	0.0         
+ 23              	0	            	; LeakP: 50              	0.0         	0.0         	0.0         	0.0         
+ 24              	0	            	; LeakP: 51              	0.0         	0.0         	0.0         	0.0         
+ 24              	0	            	; LeakP: 52              	0.0         	0.0         	0.0         	0.0         
+ 25              	0	            	; LeakP: 53              	0.0         	0.0         	0.0         	0.0         
+ 25              	0	            	; LeakP: 54              	0.0         	0.0         	0.0         	0.0         
+ 25              	0	            	; LeakP: 55              	0.0         	0.0         	0.0         	0.0         
+ 26              	0	            	; LeakP: 56              	0.0         	0.0         	0.0         	0.0         
+ 26              	0	            	; LeakP: 57              	0.0         	0.0         	0.0         	0.0         
+ 26              	0	            	; LeakP: 58              	0.0         	0.0         	0.0         	0.0         
+ 27              	0	            	; LeakP: 59              	0.0         	0.0         	0.0         	0.0         
+ 28              	0	            	; LeakP: 60              	0.0         	0.0         	0.0         	0.0         
+ 28              	0	            	; LeakP: 61              	0.0         	0.0         	0.0         	0.0         
+ 28              	0	            	; LeakP: 62              	0.0         	0.0         	0.0         	0.0         
+ 30              	0	            	; LeakP: 63              	0.0         	0.0         	0.0         	0.0         
+ 30              	0	            	; LeakP: 64              	0.0         	0.0         	0.0         	0.0         
+ 31              	0	            	; LeakP: 65              	0.0         	0.0         	0.0         	0.0         
+ 32              	0	            	; LeakP: 66              	0.0         	0.0         	0.0         	0.0         
+ 33              	0	            	; LeakP: 67              	0.0         	0.0         	0.0         	0.0         
+ 34              	0	            	; LeakP: 68              	0.0         	0.0         	0.0         	0.0         
+ 34              	0	            	; LeakP: 69              	0.0         	0.0         	0.0         	0.0         
+ 35              	0	            	; LeakP: 70              	0.0         	0.0         	0.0         	0.0         
+ 35              	0	            	; LeakP: 71              	0.0         	0.0         	0.0         	0.0         
+ 35              	0	            	; LeakP: 72              	0.0         	0.0         	0.0         	0.0         
+ 36              	0	            	; LeakP: 73              	0.0         	0.0         	0.0         	0.0         
+ 37              	0	            	; LeakP: 74              	0.0         	0.0         	0.0         	0.0         
+ 38              	0	            	; LeakP: 75              	0.0         	0.0         	0.0         	0.0         
+ 39              	0	            	; LeakP: 76              	0.0         	0.0         	0.0         	0.0         
+ 39              	0	            	; LeakP: 77              	0.0         	0.0         	0.0         	0.0         
+ 40              	0	            	; LeakP: 78              	0.0         	0.0         	0.0         	0.0         
+ 40              	0	            	; LeakP: 79              	0.0         	0.0         	0.0         	0.0         
+ 41              	0	            	; LeakP: 80              	0.0         	0.0         	0.0         	0.0         
+ 41              	0	            	; LeakP: 81              	0.0         	0.0         	0.0         	0.0         
+ 41              	0	            	; LeakP: 82              	0.0         	0.0         	0.0         	0.0         
+ 42              	0	            	; LeakP: 83              	0.0         	0.0         	0.0         	0.0         
+ 42              	0	            	; LeakP: 84              	0.0         	0.0         	0.0         	0.0         
+ 43              	0	            	; LeakP: 85              	0.0         	0.0         	0.0         	0.0         
+ 44              	0	            	; LeakP: 86              	0.0         	0.0         	0.0         	0.0         
+ 44              	0	            	; LeakP: 87              	0.0         	0.0         	0.0         	0.0         
+ 45              	0	            	; LeakP: 88              	0.0         	0.0         	0.0         	0.0         
+ 46              	0	            	; LeakP: 89              	0.0         	0.0         	0.0         	0.0         
+ 47              	0	            	; LeakP: 90              	0.0         	0.0         	0.0         	0.0         
+ 47              	0	            	; LeakP: 91              	0.0         	0.0         	0.0         	0.0         
+ 47              	0	            	; LeakP: 92              	0.0         	0.0         	0.0         	0.0         
+ 48              	0	            	; LeakP: 93              	0.0         	0.0         	0.0         	0.0         
+ 48              	0	            	; LeakP: 94              	0.0         	0.0         	0.0         	0.0         
+ 49              	0	            	; LeakP: 95              	0.0         	0.0         	0.0         	0.0         
+ 49              	0	            	; LeakP: 96              	0.0         	0.0         	0.0         	0.0         
+ 50              	0	            	; LeakP: 97              	0.0         	0.0         	0.0         	0.0         
+ 51              	0	            	; LeakP: 98              	0.0         	0.0         	0.0         	0.0         
+ 51              	0	            	; LeakP: 99              	0.0         	0.0         	0.0         	0.0         
+ 51              	0	            	; LeakP: 100             	0.0         	0.0         	0.0         	0.0         
+ 52              	0	            	; LeakP: 101             	0.0         	0.0         	0.0         	0.0         
+ 53              	0	            	; LeakP: 102             	0.0         	0.0         	0.0         	0.0         
+ 55              	0	            	; LeakP: 103             	0.0         	0.0         	0.0         	0.0         
+ 56              	0	            	; LeakP: 104             	0.0         	0.0         	0.0         	0.0         
+ 57              	0	            	; LeakP: 105             	0.0         	0.0         	0.0         	0.0         
+ 58              	0	            	; LeakP: 106             	0.0         	0.0         	0.0         	0.0         
+ 58              	0	            	; LeakP: 107             	0.0         	0.0         	0.0         	0.0         
+ 59              	0	            	; LeakP: 108             	0.0         	0.0         	0.0         	0.0         
+ 59              	0	            	; LeakP: 109             	0.0         	0.0         	0.0         	0.0         
+ 60              	0	            	; LeakP: 110             	0.0         	0.0         	0.0         	0.0         
+ 61              	0	            	; LeakP: 111             	0.0         	0.0         	0.0         	0.0         
+ 62              	0	            	; LeakP: 112             	0.0         	0.0         	0.0         	0.0         
+ 64              	0	            	; LeakP: 113             	0.0         	0.0         	0.0         	0.0         
+ 64              	0	            	; LeakP: 114             	0.0         	0.0         	0.0         	0.0         
+ 65              	0	            	; LeakP: 115             	0.0         	0.0         	0.0         	0.0         
+ 66              	0	            	; LeakP: 116             	0.0         	0.0         	0.0         	0.0         
+ 66              	0	            	; LeakP: 117             	0.0         	0.0         	0.0         	0.0         
+ 66              	0	            	; LeakP: 118             	0.0         	0.0         	0.0         	0.0         
+ 67              	0	            	; LeakP: 119             	0.0         	0.0         	0.0         	0.0         
+ 68              	0	            	; LeakP: 120             	0.0         	0.0         	0.0         	0.0         
+ 69              	0	            	; LeakP: 121             	0.0         	0.0         	0.0         	0.0         
+ 70              	0	            	; LeakP: 122             	0.0         	0.0         	0.0         	0.0         
+ 70              	0	            	; LeakP: 123             	0.0         	0.0         	0.0         	0.0         
+ 72              	0	            	; LeakP: 124             	0.0         	0.0         	0.0         	0.0         
+ 75              	0	            	; LeakP: 125             	0.0         	0.0         	0.0         	0.0         
+ 81              	0	            	; LeakP: 126             	0.0         	0.0         	0.0         	0.0         
+ 86              	0	            	; LeakP: 127             	0.0         	0.0         	0.0         	0.0         
+ 28              	0	            	; LeakP: 128             	0.0         	0.0         	0.0         	0.0         
+[STATUS]
+;ID              	Status/Setting
+
+[PATTERNS]
+;ID              	Multipliers
+;Multiplier 2.0
+ 1               	0.8         	0.8         	0.8         	0.8         	0.8         	0.8         
+ 1               	1.6         	1.6         	1.8         	1.8         	2.0         	2.0         
+ 1               	1.8         	1.8         	1.8         	1.8         	1.8         	1.8         
+ 1               	1.8         	1.8         	1.8         	1.6         	1.3         	1.3         
+;Multiplier 2.4
+ 2               	0.4         	0.4         	0.4         	0.4         	0.4         	0.4         
+ 2               	2.0         	2.0         	2.2         	2.2         	2.4         	2.4         
+ 2               	2.0         	2.0         	1.7         	1.7         	1.7         	1.7         
+ 2               	2.2         	2.2         	2.2         	1.5         	1.0         	0.5         
+;Multiplier 3.0
+ 3               	0.2         	0.2         	0.2         	0.2         	0.2         	0.2         
+ 3               	2.0         	3.0         	3.0         	1.5         	1.5         	2.5         
+ 3               	2.5         	2.5         	1.5         	1.5         	1.5         	1.5         
+ 3               	2.7         	2.7         	2.7         	1.0         	0.6         	0.6         
+;Multiplier 4.0
+ 4               	0.15        	0.15        	0.15        	0.15        	0.15        	0.15        
+ 4               	4.0         	4.0         	4.0         	1.5         	1.5         	2.5         
+ 4               	2.5         	1.0         	1.0         	1.0         	1.0         	3.5         
+ 4               	3.5         	3.5         	0.15        	0.15        	0.15        	0.15        
+
+[CURVES]
+;ID              	X-Value     	Y-Value
+
+[CONTROLS]
+
+
+[RULES]
+
+
+[ENERGY]
+ Global Efficiency  	75
+ Global Price       	0
+ Demand Charge      	0
+
+[EMITTERS]
+;Junction        	Coefficient
+
+[QUALITY]
+;Node            	InitQual
+
+[SOURCES]
+;Node            	Type        	Quality     	Pattern
+
+[REACTIONS]
+;Type     	Pipe/Tank       	Coefficient
+
+
+[REACTIONS]
+ Order Bulk            	1
+ Order Tank            	1
+ Order Wall            	1
+ Global Bulk           	0
+ Global Wall           	0
+ Limiting Potential    	0
+ Roughness Correlation 	0
+
+[MIXING]
+;Tank            	Model
+
+[TIMES]
+ Duration           	24:00 
+ Hydraulic Timestep 	0:10 
+ Quality Timestep   	0:05 
+ Pattern Timestep   	0:10 
+ Pattern Start      	0:00 
+ Report Timestep    	0:10 
+ Report Start       	0:00 
+ Start ClockTime    	12 am
+ Statistic          	NONE
+
+[REPORT]
+ Status             	No
+ Summary            	No
+ Page               	0
+
+[OPTIONS]
+ Units              	LPS
+ Headloss           	H-W
+ Specific Gravity   	1
+ Viscosity          	1
+ Trials             	40
+ Accuracy           	0.001
+ CHECKFREQ          	2
+ MAXCHECK           	10
+ DAMPLIMIT          	0
+ Unbalanced         	Continue 10
+ Pattern            	1
+ Demand Multiplier  	1.0
+ Emitter Exponent   	0.5
+ Quality            	None mg/L
+ Diffusivity        	1
+ Tolerance          	0.01
+
+[COORDINATES]
+;Node            	X-Coord         	Y-Coord
+ 1               	6245.00         	5126.00         
+ 2               	2777.00         	9274.00         
+ 3               	5657.00         	2563.00         
+ 4               	2554.00         	4816.00         
+ 5               	4955.00         	8589.00         
+ 6               	8189.00         	9272.00         
+ 7               	2680.00         	4824.00         
+ 8               	9703.00         	84.00           
+ 9               	232.00          	7027.00         
+ 10              	7319.00         	2765.00         
+ 11              	4853.00         	6977.00         
+ 12              	5085.00         	951.00          
+ 13              	9018.00         	6192.00         
+ 14              	3933.00         	3484.00         
+ 15              	5392.00         	7647.00         
+ 16              	4615.00         	1011.00         
+ 17              	9097.00         	4063.00         
+ 18              	3508.00         	6857.00         
+ 19              	1564.00         	3844.00         
+ 20              	6741.00         	9586.00         
+ 21              	2554.00         	8306.00         
+ 22              	640.00          	7012.00         
+ 23              	9734.00         	6239.00         
+ 24              	8899.00         	4077.00         
+ 25              	7398.00         	4406.00         
+ 26              	9558.00         	9399.00         
+ 27              	8580.00         	5106.00         
+ 28              	7105.00         	7872.00         
+ 29              	7342.00         	4366.00         
+ 30              	7804.00         	9075.00         
+ 31              	371.00          	6845.00         
+ 32              	8658.00         	3967.00         
+ 33              	9638.00         	6086.00         
+ 34              	2975.00         	4573.00         
+ 35              	401.00          	1164.00         
+ 36              	7997.00         	4126.00         
+ 37              	1097.00         	3340.00         
+ 38              	2641.00         	7413.00         
+ 39              	4571.00         	8850.00         
+ 40              	5657.00         	3733.00         
+ 41              	2182.00         	6365.00         
+ 42              	7378.00         	7259.00         
+ 43              	5061.00         	231.00          
+ 44              	355.00          	2225.00         
+ 45              	9286.00         	3117.00         
+ 46              	6922.00         	2663.00         
+ 47              	4130.00         	4154.00         
+ 48              	4208.00         	9168.00         
+ 49              	5097.00         	1104.00         
+ 50              	9428.00         	7444.00         
+ 51              	6057.00         	7717.00         
+ 52              	1087.00         	5975.00         
+ 53              	7067.00         	9873.00         
+ 54              	3896.00         	2734.00         
+ 55              	7204.00         	6528.00         
+ 56              	8050.00         	3198.00         
+ 57              	4067.00         	4137.00         
+ 58              	5672.00         	4570.00         
+ 59              	4193.00         	5622.00         
+ 60              	9972.00         	3500.00         
+ 61              	1111.00         	7461.00         
+ 62              	5126.00         	7191.00         
+ 63              	216.00          	1019.00         
+ 64              	7227.00         	226.00          
+ 65              	2234.00         	6663.00         
+ 66              	9413.00         	1914.00         
+ 67              	9457.00         	1874.00         
+ 68              	6538.00         	1594.00         
+ 69              	1495.00         	6763.00         
+ 70              	7388.00         	1631.00         
+ 71              	9691.00         	3292.00         
+ 72              	4948.00         	531.00          
+ 73              	2087.00         	6605.00         
+ 74              	7615.00         	969.00          
+ 75              	2918.00         	9724.00         
+ 76              	6902.00         	111.00          
+ 77              	3590.00         	5081.00         
+ 78              	9536.00         	2036.00         
+ 79              	4190.00         	9032.00         
+ 80              	4473.00         	4635.00         
+ 81              	7336.00         	7985.00         
+ 82              	7745.00         	5813.00         
+ 83              	8558.00         	7136.00         
+ 84              	686.00          	6334.00         
+ 85              	9917.00         	5507.00         
+ 86              	9381.00         	9169.00         
+ 87              	6121.00         	3318.00         
+ 88              	5986.00         	7684.00         
+ 89              	4796.00         	316.00          
+ 90              	4671.00         	7494.00         
+ 91              	5200.00         	6132.00         
+ 92              	7850.00         	9361.00         
+ 93              	2047.00         	6300.00         
+ 94              	566.00          	2958.00         
+ 95              	3662.00         	9962.00         
+ 96              	3475.00         	3819.00         
+ 97              	6237.00         	7939.00         
+ 98              	7521.00         	8394.00         
+ 99              	8338.00         	2186.00         
+ 100             	5621.00         	4471.00         
+ 102             	7118.23         	7881.77         
+
+[VERTICES]
+;Link            	X-Coord         	Y-Coord
+
+[LABELS]
+;X-Coord           Y-Coord          Label & Anchor Node
+
+[BACKDROP]
+ DIMENSIONS     	0.00            	0.00            	10000.00        	10000.00        
+ UNITS          	None
+ FILE           	
+ OFFSET         	0.00            	0.00            
+
+;[NETDEMANDINFO]
+;;Property value
+; INHABITANTS        	50
+; DEMAND             	0.11570000 ; LPS
+; DEMAND_PERCAPITA   	0.00231480 ; LPS (per capita)
+; DEMAND_LOSSES      	0.00000000 ; Losses and leaks rate
+
+;[WATERNETGEN]
+;;Property	Value
+; SAG	1              	; Storeys Above Ground
+; PDC	1.0            	; Pipe Demand Coeff.
+; PDP	               	; Pipe Demand Pattern
+; PLC	1.0            	; Pipe Water Loss Coeff.
+; PLP	               	; Pipe Water Loss Pattern
+; DPC	200.0          	; Demand per capita (in LPD)
+; MAV	"0.127*D^0.4"	; Max. Velocity Formula
+; MIV	"0.3"		; Min. Velocity Formula
+; MAP	"600.0"		; Max. Pressure Formula
+; MIP	"100+40*N"		; Min. Pressure Formula
+; MAS	"300.0"		; Max. Pressure Span Formula
+; BAC	0.0            	; Leak. Background Coeff.
+; BAE	0.0            	; Leak. Background exponent
+; BUC	0.0            	; Leak. Burst Coeff.
+; BUE	0.0            	; Leak. Burst exponent
+
+;[CATALOGHEADER]
+;;Units  H-W D-W C-M
+;SI	N	N	N
+
+;[PIPETYPES]
+;;PipeType ID	Description							DNominal	Default H-W		  D-W	  C-M
+
+;[PIPECLASSES]
+;;PipeType ID		PipeClass ID		Description
+
+;[PIPEDIAMS]
+;;PipeType ID		PipeClass ID			   DNominal			  Wall			 Cost		 H-W	   D-W	  C-M
+
+[END]
